@@ -1,4 +1,4 @@
-package com.xiaoming.component;
+package com.xiaoming.ask_permission;
 
 import android.os.Bundle;
 

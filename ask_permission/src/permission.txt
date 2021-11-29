@@ -1,0 +1,4 @@
+组件化攻略-权限管理 https://blog.csdn.net/wangxueming/article/details/100540121
+Android组件化架构学习笔记——组件化编程之权限管理 https://blog.csdn.net/wangyongyao1989/article/details/100067942
+android 组件设计 - 权限组件封装 https://www.jianshu.com/p/661210f8885a
+Android 权限申请框架介绍 https://blog.csdn.net/asdrt12589wto1/article/details/108390518
